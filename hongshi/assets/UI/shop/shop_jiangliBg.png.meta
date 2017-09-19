@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "102d20c2-6bf2-4e5f-9f1b-a03fa8a8b57c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shop_jiangliBg": {
+      "ver": "1.0.3",
+      "uuid": "e975712a-95a6-4dd5-851a-bf51b4de5d34",
+      "rawTextureUuid": "102d20c2-6bf2-4e5f-9f1b-a03fa8a8b57c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 154,
+      "height": 165,
+      "rawWidth": 154,
+      "rawHeight": 166,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

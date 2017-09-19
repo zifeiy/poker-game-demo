@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "987715d2-d62d-4501-b240-155be804e839",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shop_tuiguangma": {
+      "ver": "1.0.3",
+      "uuid": "3fc481e0-7b84-4533-87fa-909293489aa4",
+      "rawTextureUuid": "987715d2-d62d-4501-b240-155be804e839",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 14,
+      "trimY": 4,
+      "width": 75,
+      "height": 102,
+      "rawWidth": 100,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

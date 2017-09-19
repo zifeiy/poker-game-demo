@@ -1,0 +1,24 @@
+{
+  "appKey": "AC69D4BA-8D3D-A803-AC63-7AF59492B8E5",
+  "appSecret": "4a1bf56812cce2daf60fb3a4beb9b004",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "http://oauth.anysdk.com/api/OauthLoginDemo/Login.php",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.kugames.hlhs",
+  "privateKey": "6AAAC471C1E8EB8F10E1DD4DDA574D49",
+  "renderMode": "0",
+  "startScene": "82d1597a-7952-4914-a595-4e9da312aa61",
+  "title": "HongShi",
+  "webOrientation": "auto"
+}

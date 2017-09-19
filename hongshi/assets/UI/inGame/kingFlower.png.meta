@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "017a55b0-f3ec-4197-994b-e793b63a617f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kingFlower": {
+      "ver": "1.0.3",
+      "uuid": "6141b691-7434-4076-963a-df66761ba82a",
+      "rawTextureUuid": "017a55b0-f3ec-4197-994b-e793b63a617f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -21,
+      "offsetY": -7.5,
+      "trimX": 20,
+      "trimY": 15,
+      "width": 366,
+      "height": 465,
+      "rawWidth": 448,
+      "rawHeight": 480,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
